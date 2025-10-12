@@ -1,5 +1,5 @@
-# InventoryManagementSystem_Python
-Python Project Assignment
+# PharmaVault
+is a Python Project Assignment
 Pharmacy Inventory Management System
 Members:
 Ishrak Saleh Chowdhury (232-134-034)
