@@ -7,7 +7,7 @@ It helps efficiently manage medicines, suppliers, and stock levels through a sim
 - Shakif Niaz (232-134-040)
 
 ## Screenshot
-<p align="center"> <img src="image/PharmaVaultMain.png" alt="PharmaVault Screenshot" width="700"> </p> ```
+<p align="center"> <img src="Images/PharmaVaultMain.png" alt="PharmaVault Screenshot" width="700"> </p> ```
 
 ## Tutorial
 Make sure to have MySQL installed first.  
